@@ -195,7 +195,6 @@ img {
 
 
 /* -----------HERO----------- */
-
 .hero {
     padding-top: 200px;
     padding-bottom: 200px;
@@ -298,6 +297,7 @@ img {
 .about {
     padding-top: 0;
 }
+
 .about-list {
     display: flex;
     gap: 30px;
